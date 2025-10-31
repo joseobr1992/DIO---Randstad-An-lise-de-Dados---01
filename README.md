@@ -12,13 +12,13 @@ No link: https://portal.azure.com vamos iniciar a criação do serviço.
 
 ## Uso
 
-1º Vamos criar o recurso em Create a Resource > AI + Machine Learning
-2º Escolher Language Service
-3º Preencher com as informações e escolher o nome do recurso
-4º Com o recurso criado vamos para o Language Cognitivo link https://language.cognitive.azure.com e colocar as informações solicitadas.
-5º Depois vamos selecionar "Analyse sentimento and mine" para ler e examinar o sentimento dos textos.
-6º Vamos escolher o idioma e colocar um texto teste.
-7º Após o texto teste basta prosseguir com o recurso e implementá-lo.
+* Vamos criar o recurso em Create a Resource > AI + Machine Learning
+* Escolher Language Service
+* Preencher com as informações e escolher o nome do recurso
+* Com o recurso criado vamos para o Language Cognitivo link https://language.cognitive.azure.com e colocar as informações solicitadas.
+* Depois vamos selecionar "Analyse sentimento and mine" para ler e examinar o sentimento dos textos.
+* Vamos escolher o idioma e colocar um texto teste.
+* Após o texto teste basta prosseguir com o recurso e implementá-lo.
 
 ## OBS
 
