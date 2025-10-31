@@ -23,11 +23,3 @@ No link: https://portal.azure.com vamos iniciar a criação do serviço.
 ## OBS
 
 Como não tenho assinatura na plataforma Azure devido a custos não simulei na prática, porém com as aulas é possível ter uma ideia e mapear os caminhos para usar os recursos de Machine Learning da Microsoft Azure.
-
-
-
-
-
-
-
-OBS: Como não tenho assinatura na plataforma Azure devido a custos não simulei na prática, porém com as aulas é possível ter uma ideia e mapear os caminhos para usar os recursos de Machine Learning da Microsoft Azure.
